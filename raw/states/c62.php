@@ -1,0 +1,15 @@
+<?php return [
+    ['name' => 'Aileu', 'country_id' => 62],
+    ['name' => 'Ainaro', 'country_id' => 62],
+    ['name' => 'Ambeno', 'country_id' => 62],
+    ['name' => 'Baucau', 'country_id' => 62],
+    ['name' => 'Bobonaro', 'country_id' => 62],
+    ['name' => 'Cova Lima', 'country_id' => 62],
+    ['name' => 'Dili', 'country_id' => 62],
+    ['name' => 'Ermera', 'country_id' => 62],
+    ['name' => 'Lautem', 'country_id' => 62],
+    ['name' => 'Liquica', 'country_id' => 62],
+    ['name' => 'Manatuto', 'country_id' => 62],
+    ['name' => 'Manufahi', 'country_id' => 62],
+    ['name' => 'Viqueque', 'country_id' => 62],
+];

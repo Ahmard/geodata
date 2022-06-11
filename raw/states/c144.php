@@ -1,0 +1,15 @@
+<?php return [
+    ['name' => 'Balti', 'country_id' => 144],
+    ['name' => 'Cahul', 'country_id' => 144],
+    ['name' => 'Chisinau', 'country_id' => 144],
+    ['name' => 'Chisinau Oras', 'country_id' => 144],
+    ['name' => 'Edinet', 'country_id' => 144],
+    ['name' => 'Gagauzia', 'country_id' => 144],
+    ['name' => 'Lapusna', 'country_id' => 144],
+    ['name' => 'Orhei', 'country_id' => 144],
+    ['name' => 'Soroca', 'country_id' => 144],
+    ['name' => 'Taraclia', 'country_id' => 144],
+    ['name' => 'Tighina', 'country_id' => 144],
+    ['name' => 'Transnistria', 'country_id' => 144],
+    ['name' => 'Ungheni', 'country_id' => 144],
+];

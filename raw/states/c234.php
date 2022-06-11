@@ -1,0 +1,16 @@
+<?php return [
+    ['name' => 'Andijon', 'country_id' => 234],
+    ['name' => 'Buhoro', 'country_id' => 234],
+    ['name' => 'Buxoro Viloyati', 'country_id' => 234],
+    ['name' => 'Cizah', 'country_id' => 234],
+    ['name' => 'Fargona', 'country_id' => 234],
+    ['name' => 'Horazm', 'country_id' => 234],
+    ['name' => 'Kaskadar', 'country_id' => 234],
+    ['name' => 'Korakalpogiston', 'country_id' => 234],
+    ['name' => 'Namangan', 'country_id' => 234],
+    ['name' => 'Navoi', 'country_id' => 234],
+    ['name' => 'Samarkand', 'country_id' => 234],
+    ['name' => 'Sirdare', 'country_id' => 234],
+    ['name' => 'Surhondar', 'country_id' => 234],
+    ['name' => 'Toskent', 'country_id' => 234],
+];

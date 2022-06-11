@@ -1,0 +1,17 @@
+<?php return [
+    ['name' => 'Buxoro Viloyati', 'country_id' => 108],
+    ['name' => 'Clarendon', 'country_id' => 108],
+    ['name' => 'Hanover', 'country_id' => 108],
+    ['name' => 'Kingston', 'country_id' => 108],
+    ['name' => 'Manchester', 'country_id' => 108],
+    ['name' => 'Portland', 'country_id' => 108],
+    ['name' => 'Saint Andrews', 'country_id' => 108],
+    ['name' => 'Saint Ann', 'country_id' => 108],
+    ['name' => 'Saint Catherine', 'country_id' => 108],
+    ['name' => 'Saint Elizabeth', 'country_id' => 108],
+    ['name' => 'Saint James', 'country_id' => 108],
+    ['name' => 'Saint Mary', 'country_id' => 108],
+    ['name' => 'Saint Thomas', 'country_id' => 108],
+    ['name' => 'Trelawney', 'country_id' => 108],
+    ['name' => 'Westmoreland', 'country_id' => 108],
+];

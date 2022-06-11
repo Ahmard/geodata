@@ -1,0 +1,17 @@
+<?php return [
+    ['name' => 'Aleppo', 'country_id' => 213],
+    ['name' => 'Dar\'a', 'country_id' => 213],
+    ['name' => 'Dayr-az-Zawr', 'country_id' => 213],
+    ['name' => 'Dimashq', 'country_id' => 213],
+    ['name' => 'Halab', 'country_id' => 213],
+    ['name' => 'Hamah', 'country_id' => 213],
+    ['name' => 'Hims', 'country_id' => 213],
+    ['name' => 'Idlib', 'country_id' => 213],
+    ['name' => 'Madinat Dimashq', 'country_id' => 213],
+    ['name' => 'Tartus', 'country_id' => 213],
+    ['name' => 'al-Hasakah', 'country_id' => 213],
+    ['name' => 'al-Ladhiqiyah', 'country_id' => 213],
+    ['name' => 'al-Qunaytirah', 'country_id' => 213],
+    ['name' => 'ar-Raqqah', 'country_id' => 213],
+    ['name' => 'as-Suwayda', 'country_id' => 213],
+];

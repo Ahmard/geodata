@@ -1,0 +1,16 @@
+<?php return [
+    ['name' => 'Abrantes', 'country_id' => 176],
+    ['name' => 'Acores', 'country_id' => 176],
+    ['name' => 'Alentejo', 'country_id' => 176],
+    ['name' => 'Algarve', 'country_id' => 176],
+    ['name' => 'Braga', 'country_id' => 176],
+    ['name' => 'Centro', 'country_id' => 176],
+    ['name' => 'Distrito de Leiria', 'country_id' => 176],
+    ['name' => 'Distrito de Viana do Castelo', 'country_id' => 176],
+    ['name' => 'Distrito de Vila Real', 'country_id' => 176],
+    ['name' => 'Distrito do Porto', 'country_id' => 176],
+    ['name' => 'Lisboa e Vale do Tejo', 'country_id' => 176],
+    ['name' => 'Madeira', 'country_id' => 176],
+    ['name' => 'Norte', 'country_id' => 176],
+    ['name' => 'Paivas', 'country_id' => 176],
+];

@@ -1,0 +1,15 @@
+<?php return [
+    ['name' => 'Alytaus', 'country_id' => 126],
+    ['name' => 'Anyksciai', 'country_id' => 126],
+    ['name' => 'Kauno', 'country_id' => 126],
+    ['name' => 'Klaipedos', 'country_id' => 126],
+    ['name' => 'Marijampoles', 'country_id' => 126],
+    ['name' => 'Panevezhio', 'country_id' => 126],
+    ['name' => 'Panevezys', 'country_id' => 126],
+    ['name' => 'Shiauliu', 'country_id' => 126],
+    ['name' => 'Taurages', 'country_id' => 126],
+    ['name' => 'Telshiu', 'country_id' => 126],
+    ['name' => 'Telsiai', 'country_id' => 126],
+    ['name' => 'Utenos', 'country_id' => 126],
+    ['name' => 'Vilniaus', 'country_id' => 126],
+];

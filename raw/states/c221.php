@@ -1,0 +1,18 @@
+<?php return [
+    ['name' => 'Arima-Tunapuna-Piarco', 'country_id' => 221],
+    ['name' => 'Caroni', 'country_id' => 221],
+    ['name' => 'Chaguanas', 'country_id' => 221],
+    ['name' => 'Couva-Tabaquite-Talparo', 'country_id' => 221],
+    ['name' => 'Diego Martin', 'country_id' => 221],
+    ['name' => 'Glencoe', 'country_id' => 221],
+    ['name' => 'Penal Debe', 'country_id' => 221],
+    ['name' => 'Point Fortin', 'country_id' => 221],
+    ['name' => 'Port of Spain', 'country_id' => 221],
+    ['name' => 'Princes Town', 'country_id' => 221],
+    ['name' => 'Saint George', 'country_id' => 221],
+    ['name' => 'San Fernando', 'country_id' => 221],
+    ['name' => 'San Juan', 'country_id' => 221],
+    ['name' => 'Sangre Grande', 'country_id' => 221],
+    ['name' => 'Siparia', 'country_id' => 221],
+    ['name' => 'Tobago', 'country_id' => 221],
+];

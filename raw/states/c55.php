@@ -1,0 +1,18 @@
+<?php return [
+    ['name' => 'Camaguey', 'country_id' => 55],
+    ['name' => 'Ciego de Avila', 'country_id' => 55],
+    ['name' => 'Cienfuegos', 'country_id' => 55],
+    ['name' => 'Ciudad de la Habana', 'country_id' => 55],
+    ['name' => 'Granma', 'country_id' => 55],
+    ['name' => 'Guantanamo', 'country_id' => 55],
+    ['name' => 'Habana', 'country_id' => 55],
+    ['name' => 'Holguin', 'country_id' => 55],
+    ['name' => 'Isla de la Juventud', 'country_id' => 55],
+    ['name' => 'La Habana', 'country_id' => 55],
+    ['name' => 'Las Tunas', 'country_id' => 55],
+    ['name' => 'Matanzas', 'country_id' => 55],
+    ['name' => 'Pinar del Rio', 'country_id' => 55],
+    ['name' => 'Sancti Spiritus', 'country_id' => 55],
+    ['name' => 'Santiago de Cuba', 'country_id' => 55],
+    ['name' => 'Villa Clara', 'country_id' => 55],
+];

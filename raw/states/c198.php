@@ -1,0 +1,18 @@
+<?php return [
+    ['name' => 'Benedikt', 'country_id' => 198],
+    ['name' => 'Gorenjska', 'country_id' => 198],
+    ['name' => 'Gorishka', 'country_id' => 198],
+    ['name' => 'Jugovzhodna Slovenija', 'country_id' => 198],
+    ['name' => 'Koroshka', 'country_id' => 198],
+    ['name' => 'Notranjsko-krashka', 'country_id' => 198],
+    ['name' => 'Obalno-krashka', 'country_id' => 198],
+    ['name' => 'Obcina Domzale', 'country_id' => 198],
+    ['name' => 'Obcina Vitanje', 'country_id' => 198],
+    ['name' => 'Osrednjeslovenska', 'country_id' => 198],
+    ['name' => 'Podravska', 'country_id' => 198],
+    ['name' => 'Pomurska', 'country_id' => 198],
+    ['name' => 'Savinjska', 'country_id' => 198],
+    ['name' => 'Slovenian Littoral', 'country_id' => 198],
+    ['name' => 'Spodnjeposavska', 'country_id' => 198],
+    ['name' => 'Zasavska', 'country_id' => 198],
+];

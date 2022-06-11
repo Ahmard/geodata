@@ -1,0 +1,18 @@
+<?php return [
+    ['name' => 'Aimeliik', 'country_id' => 167],
+    ['name' => 'Airai', 'country_id' => 167],
+    ['name' => 'Angaur', 'country_id' => 167],
+    ['name' => 'Hatobohei', 'country_id' => 167],
+    ['name' => 'Kayangel', 'country_id' => 167],
+    ['name' => 'Koror', 'country_id' => 167],
+    ['name' => 'Melekeok', 'country_id' => 167],
+    ['name' => 'Ngaraard', 'country_id' => 167],
+    ['name' => 'Ngardmau', 'country_id' => 167],
+    ['name' => 'Ngaremlengui', 'country_id' => 167],
+    ['name' => 'Ngatpang', 'country_id' => 167],
+    ['name' => 'Ngchesar', 'country_id' => 167],
+    ['name' => 'Ngerchelong', 'country_id' => 167],
+    ['name' => 'Ngiwal', 'country_id' => 167],
+    ['name' => 'Peleliu', 'country_id' => 167],
+    ['name' => 'Sonsorol', 'country_id' => 167],
+];

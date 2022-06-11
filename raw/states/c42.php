@@ -1,0 +1,16 @@
+<?php return [
+    ['name' => 'Batha', 'country_id' => 42],
+    ['name' => 'Biltine', 'country_id' => 42],
+    ['name' => 'Bourkou-Ennedi-Tibesti', 'country_id' => 42],
+    ['name' => 'Chari-Baguirmi', 'country_id' => 42],
+    ['name' => 'Guera', 'country_id' => 42],
+    ['name' => 'Kanem', 'country_id' => 42],
+    ['name' => 'Lac', 'country_id' => 42],
+    ['name' => 'Logone Occidental', 'country_id' => 42],
+    ['name' => 'Logone Oriental', 'country_id' => 42],
+    ['name' => 'Mayo-Kebbi', 'country_id' => 42],
+    ['name' => 'Moyen-Chari', 'country_id' => 42],
+    ['name' => 'Ouaddai', 'country_id' => 42],
+    ['name' => 'Salamat', 'country_id' => 42],
+    ['name' => 'Tandjile', 'country_id' => 42],
+];

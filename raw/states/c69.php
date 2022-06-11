@@ -1,0 +1,15 @@
+<?php return [
+    ['name' => 'Addis Abeba', 'country_id' => 69],
+    ['name' => 'Afar', 'country_id' => 69],
+    ['name' => 'Amhara', 'country_id' => 69],
+    ['name' => 'Benishangul', 'country_id' => 69],
+    ['name' => 'Diredawa', 'country_id' => 69],
+    ['name' => 'Gambella', 'country_id' => 69],
+    ['name' => 'Harar', 'country_id' => 69],
+    ['name' => 'Jigjiga', 'country_id' => 69],
+    ['name' => 'Mekele', 'country_id' => 69],
+    ['name' => 'Oromia', 'country_id' => 69],
+    ['name' => 'Somali', 'country_id' => 69],
+    ['name' => 'Southern', 'country_id' => 69],
+    ['name' => 'Tigray', 'country_id' => 69],
+];

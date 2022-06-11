@@ -1,0 +1,16 @@
+<?php return [
+    ['name' => 'Eastern Cape', 'country_id' => 202],
+    ['name' => 'Free State', 'country_id' => 202],
+    ['name' => 'Gauteng', 'country_id' => 202],
+    ['name' => 'Kempton Park', 'country_id' => 202],
+    ['name' => 'Kramerville', 'country_id' => 202],
+    ['name' => 'KwaZulu Natal', 'country_id' => 202],
+    ['name' => 'Limpopo', 'country_id' => 202],
+    ['name' => 'Mpumalanga', 'country_id' => 202],
+    ['name' => 'North West', 'country_id' => 202],
+    ['name' => 'Northern Cape', 'country_id' => 202],
+    ['name' => 'Parow', 'country_id' => 202],
+    ['name' => 'Table View', 'country_id' => 202],
+    ['name' => 'Umtentweni', 'country_id' => 202],
+    ['name' => 'Western Cape', 'country_id' => 202],
+];

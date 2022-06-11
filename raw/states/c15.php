@@ -1,0 +1,17 @@
+<?php return [
+    ['name' => 'Abseron', 'country_id' => 15],
+    ['name' => 'Baki Sahari', 'country_id' => 15],
+    ['name' => 'Ganca', 'country_id' => 15],
+    ['name' => 'Ganja', 'country_id' => 15],
+    ['name' => 'Kalbacar', 'country_id' => 15],
+    ['name' => 'Lankaran', 'country_id' => 15],
+    ['name' => 'Mil-Qarabax', 'country_id' => 15],
+    ['name' => 'Mugan-Salyan', 'country_id' => 15],
+    ['name' => 'Nagorni-Qarabax', 'country_id' => 15],
+    ['name' => 'Naxcivan', 'country_id' => 15],
+    ['name' => 'Priaraks', 'country_id' => 15],
+    ['name' => 'Qazax', 'country_id' => 15],
+    ['name' => 'Saki', 'country_id' => 15],
+    ['name' => 'Sirvan', 'country_id' => 15],
+    ['name' => 'Xacmaz', 'country_id' => 15],
+];

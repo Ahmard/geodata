@@ -1,0 +1,17 @@
+<?php return [
+    ['name' => 'Akmecet', 'country_id' => 112],
+    ['name' => 'Akmola', 'country_id' => 112],
+    ['name' => 'Aktobe', 'country_id' => 112],
+    ['name' => 'Almati', 'country_id' => 112],
+    ['name' => 'Atirau', 'country_id' => 112],
+    ['name' => 'Batis Kazakstan', 'country_id' => 112],
+    ['name' => 'Burlinsky Region', 'country_id' => 112],
+    ['name' => 'Karagandi', 'country_id' => 112],
+    ['name' => 'Kostanay', 'country_id' => 112],
+    ['name' => 'Mankistau', 'country_id' => 112],
+    ['name' => 'Ontustik Kazakstan', 'country_id' => 112],
+    ['name' => 'Pavlodar', 'country_id' => 112],
+    ['name' => 'Sigis Kazakstan', 'country_id' => 112],
+    ['name' => 'Soltustik Kazakstan', 'country_id' => 112],
+    ['name' => 'Taraz', 'country_id' => 112],
+];

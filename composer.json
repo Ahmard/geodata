@@ -1,0 +1,20 @@
+{
+    "name": "ahmard/geodata",
+    "description": "A simple class that provides access to country & state list.",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmard\\GeoData\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmard",
+            "email": "ahmardy@outlook.com"
+        }
+    ]
+}

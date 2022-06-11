@@ -1,0 +1,15 @@
+<?php return [
+    ['name' => 'Alberta', 'country_id' => 38],
+    ['name' => 'British Columbia', 'country_id' => 38],
+    ['name' => 'Manitoba', 'country_id' => 38],
+    ['name' => 'New Brunswick', 'country_id' => 38],
+    ['name' => 'Newfoundland and Labrador', 'country_id' => 38],
+    ['name' => 'Northwest Territories', 'country_id' => 38],
+    ['name' => 'Nova Scotia', 'country_id' => 38],
+    ['name' => 'Nunavut', 'country_id' => 38],
+    ['name' => 'Ontario', 'country_id' => 38],
+    ['name' => 'Prince Edward Island', 'country_id' => 38],
+    ['name' => 'Quebec', 'country_id' => 38],
+    ['name' => 'Saskatchewan', 'country_id' => 38],
+    ['name' => 'Yukon', 'country_id' => 38],
+];

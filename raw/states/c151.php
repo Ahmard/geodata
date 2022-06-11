@@ -1,0 +1,15 @@
+<?php return [
+    ['name' => 'Caprivi', 'country_id' => 151],
+    ['name' => 'Erongo', 'country_id' => 151],
+    ['name' => 'Hardap', 'country_id' => 151],
+    ['name' => 'Karas', 'country_id' => 151],
+    ['name' => 'Kavango', 'country_id' => 151],
+    ['name' => 'Khomas', 'country_id' => 151],
+    ['name' => 'Kunene', 'country_id' => 151],
+    ['name' => 'Ohangwena', 'country_id' => 151],
+    ['name' => 'Omaheke', 'country_id' => 151],
+    ['name' => 'Omusati', 'country_id' => 151],
+    ['name' => 'Oshana', 'country_id' => 151],
+    ['name' => 'Oshikoto', 'country_id' => 151],
+    ['name' => 'Otjozondjupa', 'country_id' => 151],
+];
